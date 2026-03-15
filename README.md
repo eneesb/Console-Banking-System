@@ -31,7 +31,7 @@ A simple console-based banking application built with Java, featuring account ma
 ## 🏗️ Project Structure
 
 ```
-mini-banka/
+console-banking-system/
 │
 ├── Main.java         # Entry point, menus, and user interaction
 ├── Banka.java        # Bank class — manages all accounts
@@ -52,8 +52,8 @@ mini-banka/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/eneesb/console-banking-system.git
-cd console-banking-system
+git clone https://github.com/eneesb/Console-Banking-System.git
+cd Console-Banking-System
 ```
 
 ### 2. Compile
